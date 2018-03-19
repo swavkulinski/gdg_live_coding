@@ -1,8 +1,9 @@
 # gdg_glasgow_devfest
 
-A new Flutter project.
+Live coding sample from GDG Glasgow DevFest.
 
-## Getting Started
+>Branch init is an inital state.
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+>Branch complete is a complete session.
+
+
